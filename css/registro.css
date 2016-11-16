@@ -101,5 +101,7 @@
   right: 100%;
   top: 10px;
 }
-
+.error{
+  display: none;
+}
 
